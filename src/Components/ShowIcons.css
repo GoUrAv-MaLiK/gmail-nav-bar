@@ -1,0 +1,12 @@
+.ShowIcons{
+    margin-right: 8px;
+}
+.show-icon{
+color: gray;
+height: 30px;
+width: 30px;
+}
+.show-icon:hover{
+    color: black;
+    cursor: pointer;
+}
